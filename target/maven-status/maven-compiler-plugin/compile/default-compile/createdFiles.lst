@@ -1,0 +1,11 @@
+com\Reto2Cl4Rocco\Rocco\Repository\UserRepository.class
+com\Reto2Cl4Rocco\Rocco\Service\UserService.class
+com\Reto2Cl4Rocco\Rocco\Controller\CleaningprodsController.class
+com\Reto2Cl4Rocco\Rocco\Model\Cleaningprods.class
+com\Reto2Cl4Rocco\Rocco\Model\User.class
+com\Reto2Cl4Rocco\Rocco\Interface\InterfaceCleaningprods.class
+com\Reto2Cl4Rocco\Rocco\Interface\InterfaceUser.class
+com\Reto2Cl4Rocco\Rocco\RoccoApplication.class
+com\Reto2Cl4Rocco\Rocco\Controller\UserController.class
+com\Reto2Cl4Rocco\Rocco\Service\CleaningprodsService.class
+com\Reto2Cl4Rocco\Rocco\Repository\CleaningprodsRepository.class
